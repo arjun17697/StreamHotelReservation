@@ -1,4 +1,4 @@
-package com.bridgelabz.stream;
+package main;
 
 public class HotelReservation {
 	public static void main(String[] args) {
